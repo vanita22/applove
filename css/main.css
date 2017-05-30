@@ -54,12 +54,15 @@ header{
   top: 0;
 }
 
+/*cambio hecho por vanessa p*/
 nav{
   background-color: white;
   width: 100%;
   height: 20vh;
   position: fixed;  
 }
+
+/****************************/
 
 .menu{
   padding: 14px 70px;  
@@ -122,12 +125,14 @@ footer{
   padding-top: 7px;
 }
 
+/*cambio hecho por vanessa p*/
+
 #work{
   text-align: center;  
   padding: 20px 7px;
 }
 
-.portada{
+.home2{
   background-image: url(../assets/images/hero.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -136,4 +141,11 @@ footer{
   height: 200vh; 
   margin-top: 30px;
 }
+
+.box-productos{
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+
 
